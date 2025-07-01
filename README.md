@@ -38,25 +38,22 @@ Edit
 
 ## 🚀 How to Run
 
-```bash
 chmod +x hall_management.sh
 ./hall_management.sh
+
 Make sure all the .txt files are in the same directory as hall_management.sh.
 
 🔐 Provost Credentials
 You can customize the provost username and password in:
 
-Copy
-Edit
 provost_credentials.txt
 Default format:
 
 makefile
-Copy
-Edit
 provost:1234
+
 🛠️ Technologies Used
-Bash scripting
+Shell scripting
 
 Text file-based data handling (no external dependencies)
 
