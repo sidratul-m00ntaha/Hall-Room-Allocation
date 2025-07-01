@@ -35,15 +35,12 @@ pending_requests.txt # Unapproved room requests (ID:RoomNo)
 
 provost_credentials.txt # Provost login credentials (Username:Password)
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 How to Run
 
 chmod +x hall_management.sh
+
 ./hall_management.sh
 
 Make sure all the .txt files are in the same directory as hall_management.sh.
@@ -54,7 +51,6 @@ You can customize the provost username and password in:
 provost_credentials.txt
 Default format:
 
-makefile
 provost:1234
 
 🛠️ Technologies Used
