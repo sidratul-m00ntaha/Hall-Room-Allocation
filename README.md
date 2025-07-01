@@ -24,10 +24,15 @@ A terminal-based room allocation management system built with **Bash scripting**
 ## 📁 Project Structure
 
 hall_management.sh # Main script
+
 rooms.txt # Room data (RoomNo:Capacity:Type)
+
 students.txt # Student data (ID:Name:Contact)
+
 allocations.txt # Confirmed room allocations (ID:RoomNo)
+
 pending_requests.txt # Unapproved room requests (ID:RoomNo)
+
 provost_credentials.txt # Provost login credentials (Username:Password)
 
 yaml
